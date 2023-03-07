@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+
+.wide {
+  width: 700px;
+}
+
+.tall {
+  height: 485px;
+}
